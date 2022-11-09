@@ -1,0 +1,6 @@
+{
+    "Enlace_noticias":"//h2/a/@href",
+    "Titulo_noticia":"//div[@class='mb-auto']/h2/span/text()",
+    "Resumen_noticia":"//div[@class='lead']/p/text()",
+    "Cuerpo_noticia":"//div[@class='html-content']/p/text()"
+}
